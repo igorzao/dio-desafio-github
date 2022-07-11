@@ -1,0 +1,1 @@
+Lembrar de sempre usar commit e depois utilizar o push pra salvar

@@ -1,0 +1,5 @@
+Donwload para o Git (Bash ou Gui)
+https://git-scm.com/download/win
+
+Donwload para o Typora
+https://typora.io/
